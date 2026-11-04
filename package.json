@@ -1,0 +1,8 @@
+{
+  "name": "djpreet",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DJ Preet (DJPreet775) website: Reno desi wedding, club & event DJ",
+  "scripts": { "dev": "vercel dev" },
+  "dependencies": { "nodemailer": "^6.9.14" }
+}
